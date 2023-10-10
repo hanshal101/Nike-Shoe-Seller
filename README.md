@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+This project was created with the help of a YouTube video by Javascript Mastery
+Note: The first section was copied by the video(inorder to get some knowledge on how to write code with TailwindCSS) but the rest was completely built by me
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
